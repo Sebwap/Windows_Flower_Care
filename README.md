@@ -42,5 +42,5 @@ Date:2019-08-12 07:42:51 +0200 > Temp:15.5°C Moist 36% Light 33 mmol (493 Lux) 
 # Issues
 
 Unfortunately, sometimes, the result is only
-bleak.exc.BleakError: Device with address XX:XX:XX:XX:XX:XX was not found.
+`bleak.exc.BleakError: Device with address XX:XX:XX:XX:XX:XX was not found.`
 I don't know why the device seem to be invisible sometimes.
