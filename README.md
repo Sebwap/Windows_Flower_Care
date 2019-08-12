@@ -11,7 +11,8 @@ https://github.com/hbldh/bleak for wonderfull work on Bleak !
 
 Feel free to make a better code of this, it was just made in a few hours just to see if it was possible under Windows 10.
 
-Sample result below:
+# Sample result below:
+
 Name: Flower care
 Firmware version: 3.2.1
 Battery level: 98 %
@@ -37,6 +38,8 @@ Date:2019-08-12 10:42:51 +0200 > Temp:17.9°C Moist 36% Light 261 mmol (3908 Lux
 Date:2019-08-12 09:42:51 +0200 > Temp:16.7°C Moist 36% Light 167 mmol (2498 Lux) Fert 315 µS/cm
 Date:2019-08-12 08:42:51 +0200 > Temp:15.9°C Moist 36% Light 108 mmol (1620 Lux) Fert 320 µS/cm
 Date:2019-08-12 07:42:51 +0200 > Temp:15.5°C Moist 36% Light 33 mmol (493 Lux) Fert 324 µS/cm
+
+# Issues
 
 Unfortunately, sometimes, the result is only
 bleak.exc.BleakError: Device with address XX:XX:XX:XX:XX:XX was not found.
